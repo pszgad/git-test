@@ -17,5 +17,6 @@ public class First {
     public  void  test(){
         int i=0;
         i+=1000;
+        System.out.println(i);
     }
 }
